@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/rfphill/wft/issues"
   },
-  "homepage": "https://github.com/rfphill/wft#readme"
+  "homepage": "https://github.com/rfphill/wft#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
 }
