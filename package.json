@@ -1,0 +1,22 @@
+{
+  "name": "wft",
+  "version": "1.0.0",
+  "description": "simple test to bang on some of our workflows (wft = workflow tester)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfphill/wft.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rfphill/wft/issues"
+  },
+  "homepage": "https://github.com/rfphill/wft#readme"
+}
